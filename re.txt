@@ -1,4 +1,1 @@
-git sis is dsadiads....
-dasiodkakj
-xiugai wenjian ddd
-dada
+这是一些python内建模块的使用方法
